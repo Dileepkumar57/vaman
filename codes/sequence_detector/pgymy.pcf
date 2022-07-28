@@ -1,0 +1,11 @@
+set_io clk   34 
+set_io x     31
+set_io y     30
+
+set_io a     60
+set_io b     59
+set_io c     57
+set_io d     56
+set_io e     55
+set_io f     54
+set_io g     53
